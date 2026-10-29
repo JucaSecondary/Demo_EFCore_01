@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Demo_EFCore_01.Database/Demo_EFCore_01.Database.sqlproj" Id="b805d966-70de-449f-8462-bca67580400e">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="Demo_EFCore_01/Demo_EFCore_01.csproj" />
+</Solution>
